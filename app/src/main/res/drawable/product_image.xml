@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Fondo del producto -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M0,0h200v200h-200z"/>
+
+    <!-- Simulación de un smartphone/producto -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M60,40 L140,40 Q150,40 150,50 L150,150 Q150,160 140,160 L60,160 Q50,160 50,150 L50,50 Q50,40 60,40z"/>
+
+    <!-- Pantalla del dispositivo -->
+    <path
+        android:fillColor="#BBDEFB"
+        android:pathData="M65,55 L135,55 L135,135 L65,135z"/>
+
+    <!-- Botón home -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M90,145 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0"/>
+</vector>
+

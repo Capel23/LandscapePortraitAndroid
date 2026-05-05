@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LandScape-Portrait</string>
+    <string name="app_subtitle">Tu tienda de tecnología premium</string>
+    <string name="price_label">Precio especial:</string>
+    <string name="features_title">✨ Características Premium</string>
+
+    <!-- Product Information -->
+    <string name="product_title">Nintendo Switch 2</string>
+    <string name="product_description">La nueva generación de la consola híbrida más popular. Juega en casa en tu TV o llévala contigo donde quieras. Gráficos mejorados, mayor rendimiento y una experiencia de juego incomparable.</string>
+    <string name="product_price">€399.99</string>
+    <string name="product_features">✓ Pantalla OLED 8\" con resolución mejorada\n✓ Procesador de nueva generación\n✓ Compatibilidad retroactiva con Switch\n✓ Batería de hasta 9 horas\n✓ Joy-Con magnéticos mejorados\n✓ 256GB de almacenamiento interno\n✓ Soporte 4K en modo dock\n✓ Conectividad 5G y WiFi 6E</string>
+    <string name="product_image_desc">Imagen de Nintendo Switch 2</string>
+    <string name="buy_button">COMPRAR AHORA</string>
+    <string name="toast_buy_message">¡Producto añadido al carrito!</string>
+</resources>
